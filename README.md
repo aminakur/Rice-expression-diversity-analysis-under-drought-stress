@@ -4,11 +4,9 @@ This repository provides a comprehensive analysis of rice transcript expression 
 
 ## Dataset
 
-Expression data from 216 rice accessions under wet and dry field conditions
-Normalized TPM (Transcripts Per Million) values from the Groen et al. 2020 Nature study https://www.nature.com/articles/s41586-020-1997-2
-
-Data downloaded from https://zenodo.org/records/3533431
-
+Expression data from 216 rice accessions under wet and dry field conditions<br>
+Normalized TPM (Transcripts Per Million) values from the Groen et al. 2020 Nature study https://www.nature.com/articles/s41586-020-1997-2<br>
+Data downloaded from https://zenodo.org/records/3533431<br>
 Covers major rice varietal groups (INDICA and JAPONICA).
 
 ## Requirements
@@ -72,7 +70,7 @@ Paired comparison plots showing individual accession responses
 
 ## Key Findings:
 
-Identifies most responsive rice accessions to drought stress
-Quantifies fold-change responses and statistical significance
-Reveals varietal group-specific expression patterns
+Identifies most responsive rice accessions to drought stress<br>
+Quantifies fold-change responses and statistical significance<br>
+Reveals varietal group-specific expression patterns<br>
 Generates summary tables of top responsive accessions
