@@ -1,6 +1,6 @@
-# Rice Transcriptome Expression Analysis: Drought Response Across 216 Accessions
+# Rice Transcriptome Analysis: Normal and Drought Conditions Across 216 Accessions
 
-This repository provides a comprehensive analysis of rice transcript expression variation under drought stress conditions. Using the extensive dataset from Groen et al. (2020, Nature), this Jupyter notebook investigates how specific rice transcripts respond to environmental stress across genetic diversity. The analysis pipeline serves as a template for examining any transcript from the dataset, with three representative transcripts analyzed as case studies to demonstrate the methodology and biological insights.
+This repository provides a comprehensive analysis of rice transcript expression variation under drought stress conditions. Using the extensive dataset from Groen et al. (2020, Nature), this Jupyter notebook investigates how specific rice transcripts respond to environmental stress. The analysis pipeline serves as a template for examining any transcript from the dataset, with three representative transcripts analyzed as case studies to demonstrate the methodology and biological insights.
 
 ## Dataset
 
