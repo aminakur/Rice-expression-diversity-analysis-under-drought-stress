@@ -5,7 +5,7 @@ This repository provides a comprehensive analysis of rice transcript expression 
 ## Dataset
 
 Expression data from 216 rice accessions under wet and dry field conditions<br>
-Normalized TPM (Transcripts Per Million) values from the Groen et al. 2020 Nature study https://www.nature.com/articles/s41586-020-1997-2<br>
+Normalized TPM (Transcripts Per Million) values from https://www.nature.com/articles/s41586-020-1997-2<br>
 Data downloaded from https://zenodo.org/records/3533431<br>
 Covers major rice varietal groups (INDICA and JAPONICA).
 
